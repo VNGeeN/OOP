@@ -1,0 +1,26 @@
+﻿  CHttpUrlTest.cpp
+  Test.vcxproj -> C:\Users\Николай\documents\visual studio 2015\Projects\lab6\Debug\Test.exe
+  Test.vcxproj -> C:\Users\Николай\documents\visual studio 2015\Projects\lab6\Debug\Test.pdb (Full PDB)
+  Running 11 test cases...
+  All tests
+    CHttpURLTest
+      ParseUrl
+        parse url
+      ParseProtocol
+        parse protocol
+      ParseDomain
+        parse domain
+      ParsePort
+        parse port
+      ParseDocument
+        parse document
+      GetUrl
+        return url
+      CHttpUrl cant be initialized if
+        input is empty
+        port overflow
+        invalid protocol
+        empty domain
+        invalid port
+  
+  *** No errors detected
